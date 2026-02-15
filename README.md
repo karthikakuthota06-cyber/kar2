@@ -1,4 +1,5 @@
-                            CONTROL STRUCTURES IN PYTHON
+                                   CONTROL STRUCTURES IN PYTHON
+                            
 1. Task 1 is about to check a number is odd or even which is taken from the user using input() function.
    The program is in task3.py.
    output :
